@@ -1,5 +1,7 @@
 su=0
-for i in range(8):
+for i in range(10):
     su+=i
 
 print(su)
+
+a=1
