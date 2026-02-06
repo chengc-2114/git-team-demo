@@ -5,3 +5,4 @@ for i in range(10):
 print(su)
 
 a=1
+b=2
